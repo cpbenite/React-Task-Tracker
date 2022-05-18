@@ -1,6 +1,6 @@
 # React Task Tracker
 
-
+Simple task tracker written in React. Used in conjunction with JSON-server to simulate back end.
 
 ## Available Scripts
 
